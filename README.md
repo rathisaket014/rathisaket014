@@ -1,8 +1,8 @@
-<div>
+<div style="display: flex; justify-content: center; align-items: center;">
    <img 
-      src="https://i.pinimg.com/originals/09/9d/29/099d29c595dc7dc974f0cdd39dc1937b.gif" 
+      src="https://i.pinimg.com/originals/02/01/1e/02011ec8554277b8c70bf22fb192123c.gif" 
       alt="Aesthetic Banner" 
-      style="width: 100%; height: auto;" 
+      style="width: 100%; height: auto; object-fit: cover;" 
     />
 </div>
 
