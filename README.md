@@ -34,10 +34,10 @@ I am a **creative and driven developer** with a passion for crafting modern, use
 
 ### 📬 Let's Connect!  
 <div align="center"> 
-  <a href="mailto:[your-email@example.com]" target="_blank">
+  <a href="mailto:rathisaket014@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+  <a href="https://linkedin.com/in/saket-rathi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
