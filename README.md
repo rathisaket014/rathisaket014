@@ -34,7 +34,7 @@ I am a **creative and driven developer** with a passion for crafting modern, use
 
 ### 📬 Let's Connect!  
 <div align="center"> 
-  <a href="mailto:rathisaket014@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=rathisaket014@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://linkedin.com/in/saket-rathi" target="_blank">
